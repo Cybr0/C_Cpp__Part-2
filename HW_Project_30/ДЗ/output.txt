@@ -1,0 +1,9 @@
+int main(int argc, char** argv) {
+	setlocale(LC_ALL, "RUS");
+	const int SIZE = 100;
+	char p[SIZE]{};
+	int parentheses = 0;
+	int p_open = 0;
+	int p_close = 0;
+	FILE *file;
+	file = fopen("output.txt", "r");

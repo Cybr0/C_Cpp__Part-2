@@ -1,0 +1,5 @@
+Player1 , 3600
+Player2 , 7200
+Player3 , 10800
+Player4 , 14400
+Player5 , 18000
